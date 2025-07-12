@@ -4,7 +4,7 @@ This is a static, front-end-only React prototype built as part of the **React In
 
 ## 🔗 Live Demo
 
-[Live Link Here](https://your-deployed-url.com)
+[Live Link Here](https://inscripts-ashy.vercel.app/)
 
 ---
 
